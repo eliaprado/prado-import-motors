@@ -90,4 +90,14 @@ body{margin:0;font-family:Arial;background:#0d1b2a;color:white}
 .car-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
 .car-card{background:#11203a;padding:10px;border-radius:10px}
 .car-card img{width:100%;border-radius:10px}
+[style.css](https://github.com/user-attachments/files/23966426/style.css)
+body{margin:0;font-family:Arial;background:#0d1b2a;color:white}
+.hero{padding:40px 20px;text-align:center;background:#1b263b}
+.logo{width:160px;margin-bottom:10px}
+.btn{background:#1e90ff;color:white;padding:10px 20px;border-radius:30px;text-decoration:none}
+.container{max-width:900px;margin:auto;padding:20px}
+.car-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.car-card{background:#11203a;padding:10px;border-radius:10px}
+.car-card img{width:100%;border-radius:10px}
+.footer{text-align:center;padding:20px;margin-top:20px;color:#a0aec0}
 .footer{text-align:center;padding:20px;margin-top:20px;color:#a0aec0}
